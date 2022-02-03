@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Hoje trabalho com Suporte Técnico
-- 🌱 Estudando Frond-end e Back-end
+- 🔭 Hoje trabalho com Automação de Processos
+- 🌱 Estudando DataScience & Python
 - 📫Contate-me no email: oliveiradayanati@gmail.com
 - 😄 Pronomes: ela/dela
 
