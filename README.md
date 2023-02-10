@@ -1,10 +1,10 @@
-###Olá! Eu sou a Dayana Oliveira
+Olá! Eu sou a Dayana Oliveira
 
 
 Here are some ideas to get you started:
 
-- 🔭 Hoje trabalho com Automação de Processos
-- 🌱 Estudando DataScience & Python
+- 🔭 Hoje trabalho com Automação de Processos(RPA)
+- 🌱 Trabalho com DataScience, Python & UIPath.
 - 📫Contate-me no email: oliveiradayanati@gmail.com
 - 😄 Pronomes: ela/dela
 
