@@ -1,20 +1,19 @@
-Olá! Eu sou a Dayana Oliveira
+# Olá! Eu sou a Dayana Oliveira
 
-##Sobre 
+## Sobre:
 - 🔭 Hoje trabalho com Automação de Processos(RPA)
 - 🌱 Trabalho com DataScience, Python & UIPath.
 - 📫Contate-me no email: oliveiradayanati@gmail.com
 - 😄 Pronomes: ela/dela
 
+![robot](https://media.giphy.com/media/tczJoRU7XwBS8/giphy.gif)
 <div align = "center">
   <a href="https://github.com/CostaDayana">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=CostaDayana&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CostaDayana&layout=compact&langs_count=7&theme=dark" />
 </div>
   
-   <img height = "180em" src = "[https://github-readme-stats.vercel.app/api/top-langs/?username=CostaDayana&layout=compact&langs_count=7&theme=dark](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Frobot&psig=AOvVaw0c4kTVDsF4YZ9-L63QlrPy&ust=1676159827198000&source=images&cd=vfe&ved=2ahUKEwilxPuJlIz9AhV2rJUCHf7zCLkQjRx6BAgAEAo
-)" />
-</div>
+
   
   
  <div style = "display: inline_block"> <br>
