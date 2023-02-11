@@ -2,7 +2,7 @@
 
 ## Sobre:
 - 🔭 Hoje trabalho com Automação de Processos(RPA)
-- 🌱 Trabalho com DataScience, Python & UIPath.
+- 🌱 Trabalho com Data cleaning, Python & UIPath.
 - 📫Contate-me no email: oliveiradayanati@gmail.com
 - 😄 Pronomes: ela/dela
 
