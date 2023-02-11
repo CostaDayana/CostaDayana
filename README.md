@@ -1,4 +1,4 @@
-# Olá! Eu sou a Day
+# Olá! Eu sou a Day 😜
 
 ## Sobre:
 - 🔭 Hoje trabalho com Automação de Processos(RPA)
